@@ -3,7 +3,7 @@ info:
   title: 06-Jobs-API
   version: 1.0.0
 servers:
-  - url: https://jobs-api-up2code3.onrender.com/api/v1
+  - url: http://localhost:3000/api/v1
 components:
   securitySchemes:
     bearerAuth:
