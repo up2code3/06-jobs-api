@@ -6,7 +6,7 @@ let company = null;
 let position = null;
 let status = null;
 let addingJob = null;
-ddd
+
 export const handleAddEdit = () => {
   addEditDiv = document.getElementById("edit-job");
   company = document.getElementById("company");
